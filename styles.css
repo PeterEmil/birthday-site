@@ -106,7 +106,7 @@ h1, h2, h3, h4, p {
     background-image: url("https://media.giphy.com/media/6dXSlV9neKSfS/giphy.gif");
 }
 
-#gift-section:last-of-type {
+.gift-section:last-of-type {
     margin-bottom: 5rem;
 }
 
